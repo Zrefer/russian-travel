@@ -1,5 +1,6 @@
 .cover {
     background-image: url('../../images/cover_background.jpg');
+    background-size: contain;
     height: 62.5vw;
     max-height: 740px;
     max-width: 1184px;
