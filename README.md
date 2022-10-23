@@ -8,4 +8,4 @@
 
 ### Рабочая статья
 
-* [Ссылка на статью](https://zrefer.github.io/index.html)
+* [Ссылка на статью](https://zrefer.github.io/russian-travel/)
