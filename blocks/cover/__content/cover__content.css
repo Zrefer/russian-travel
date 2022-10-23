@@ -1,0 +1,17 @@
+.cover__content {
+    align-items: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+    row-gap: 32px;
+    text-decoration: none;
+    width: 100%;
+}
+
+@media screen and (max-width: 767.5px) {
+    .cover__content {
+        row-gap: 16px;
+    }
+}
