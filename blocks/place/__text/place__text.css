@@ -1,0 +1,11 @@
+.place__text {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+@media screen and (max-width: 767.5px) {
+    .place__text {
+        width: calc(100% - 32px);
+    }
+}

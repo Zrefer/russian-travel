@@ -1,0 +1,27 @@
+.places {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+    list-style: none;
+    margin: 92px 0;
+    max-width: 984px;
+    padding: 0;
+    width: calc(100% - 96px);
+}
+
+@media screen and (max-width: 1023.5px) {
+    .places {
+        gap: 73px;
+        margin: 88px 0 90px;
+        width: calc(100% - 48px);
+    }
+}
+
+@media screen and (max-width: 767.5px) {
+    .places {
+        gap: 50px;
+        margin: 64px 0 66px;
+        width: 100%;
+    }
+}
