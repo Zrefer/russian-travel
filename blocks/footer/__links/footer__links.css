@@ -1,0 +1,6 @@
+.footer__links {
+    column-gap: 18px;
+    display: flex;
+    flex-direction: inherit;
+    row-gap: 32px;
+}
